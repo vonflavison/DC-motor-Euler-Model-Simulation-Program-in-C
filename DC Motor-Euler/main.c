@@ -21,7 +21,8 @@ struct PlantParams DCmotor; //Plant
 double *Yn; //Plant model
 
 //DEFINITION OF MAIN
-int main(void){
+int main(void)
+{
     FILE *data, *gnp, *PlantSpecs;
     Yn = (double*)malloc(3*sizeof(double));
 
