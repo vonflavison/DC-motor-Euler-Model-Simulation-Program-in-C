@@ -5,8 +5,8 @@
 #include "param.h"
 
 //MACRO DEFINITIONS
-/*Inverter Paramters*/
-#define FS  (100000.0) //Carrier (or sampling) freqency of inverter [Hz]
+/*Micro-controller Paramters*/
+#define FS  (100000.0) //Carrier (or sampling) freqency of micro-controller [Hz]
 #define TS	(1.0/((double)FS)) //Sampling Time period in [s]
 
 /*Variables for Euler Plant Models*/
