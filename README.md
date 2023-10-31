@@ -31,7 +31,7 @@ REMARK:
 
 ![Output](https://user-images.githubusercontent.com/6802278/204088437-61a6eae1-d646-4773-a1f6-88a295857cde.png)
 
-3. It is also posible to simulate any other DC motor and for longer duration and for higher input voltages. To do that,
+3. It is also posible to simulate any other DC motor and for longer duration and for higher input voltages. To do so,
 
      i. Go to "main.c" and edit the section "//PLOT THE RESULTS"
 
