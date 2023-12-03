@@ -7,7 +7,7 @@ REMARK:
 
 2. Use the following TEST CASE
    
-   A. MOTOR PATAMETERS
+   A. MOTOR PARAMETERS 
 
       a). Ke = 0.1 [V/ms^-1]
 
